@@ -1,0 +1,14 @@
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe.config
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.frmkayıt.resources
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.frmAnasayfa.resources
+C:\Users\emirh\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.frmİstatistic.resources
